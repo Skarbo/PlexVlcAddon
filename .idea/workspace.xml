@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52fa9cc6-fd01-44e2-96ff-aa91311acd2c" name="Default" comment="" />
+    <ignored path="PlexContextMenu.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PlexContextMenu" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="vertical" split-proportion="0.6670673">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="install.rdf" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/install.rdf">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="5" column="35" selection-start="287" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="345">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="chrome.manifest" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/chrome.manifest">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="7" column="98" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="210">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="restartbutton.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/chrome/content/restartbutton.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="options.xul" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/chrome/content/options.xul">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="2" column="62" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="510">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="plexvlc.xul" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/chrome/content/plexvlc.xul">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="13" column="40" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="405">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="plexvlc.js" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/chrome/content/plexvlc.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="145" column="66" selection-start="7295" selection-end="7295" vertical-scroll-proportion="0.64912283" vertical-offset="1842" max-vertical-offset="4020">
+                  <folding>
+                    <marker date="1394970102000" expanded="false" signature="6691:6796" placeholder="..." />
+                    <marker date="1394970102000" expanded="false" signature="6810:6830" placeholder="..." />
+                    <marker date="1394970102000" expanded="true" signature="6844:7021" placeholder="..." />
+                    <marker date="1394970102000" expanded="true" signature="6844:7007" placeholder="..." />
+                    <marker date="1394970102000" expanded="false" signature="6844:6920" placeholder="..." />
+                    <marker date="1394970102000" expanded="false" signature="6844:6920" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="options.dtd" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/chrome/locale/en-US/options.dtd">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="3" column="45" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="165">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="plexvlc.properties" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/chrome/locale/en-US/plexvlc.properties">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="1" column="51" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="plexvlc.dtd" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/chrome/locale/en-US/plexvlc.dtd">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="39" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="218">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="defaults.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/defaults/preferences/defaults.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="1" column="46" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/platform/WINNT/defaults/preferences/defaults.js" />
+        <option value="$PROJECT_DIR$/chrome/content/vlcplaylist.xul" />
+        <option value="$PROJECT_DIR$/chrome/content/vlcplaylist.js" />
+        <option value="$PROJECT_DIR$/chrome/locale/en-US/vlcplaylist.dtd" />
+        <option value="$PROJECT_DIR$/platform/Linux/defaults/preferences/defaults.js" />
+        <option value="$PROJECT_DIR$/chrome/content/vlc.js" />
+        <option value="$PROJECT_DIR$/chrome/locale/en-US/plexvlc.dtd" />
+        <option value="$PROJECT_DIR$/chrome/locale/en-US/options.dtd" />
+        <option value="$PROJECT_DIR$/chrome/locale/en-US/plexvlc.properties" />
+        <option value="$PROJECT_DIR$/defaults/preferences/defaults.js" />
+        <option value="$PROJECT_DIR$/install.rdf" />
+        <option value="$PROJECT_DIR$/chrome/skin/platform/winnt/restartbutton.css" />
+        <option value="$PROJECT_DIR$/chrome/content/options.xul" />
+        <option value="$PROJECT_DIR$/chrome.manifest" />
+        <option value="$PROJECT_DIR$/chrome/content/restartbutton.css" />
+        <option value="$PROJECT_DIR$/chrome/content/plexvlc.xul" />
+        <option value="$PROJECT_DIR$/chrome/content/plexvlc.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlexContextMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlexContextMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlexContextMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlexContextMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlexContextMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="defaults" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="preferences" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlexContextMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlexContextMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chrome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="locale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="en-US" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlexContextMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlexContextMenu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chrome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="options.lastSelected" value="preferences.sourceCode.CSS" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chrome/content" />
+      <recent name="$PROJECT_DIR$/chrome" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52fa9cc6-fd01-44e2-96ff-aa91311acd2c" name="Default" comment="" />
+      <created>1394881320790</created>
+      <updated>1394881320790</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4002404" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905138" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/install.rdf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="35" selection-start="287" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome.manifest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="98" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/content/restartbutton.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/content/options.xul">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="62" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/content/plexvlc.xul">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="40" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/content/plexvlc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="262" column="0" selection-start="12279" selection-end="12279" vertical-scroll-proportion="0.0" vertical-offset="3930" max-vertical-offset="4020">
+          <folding>
+            <marker date="1394970102000" expanded="false" signature="6691:6796" placeholder="..." />
+            <marker date="1394970102000" expanded="false" signature="6810:6830" placeholder="..." />
+            <marker date="1394970102000" expanded="true" signature="6844:7021" placeholder="..." />
+            <marker date="1394970102000" expanded="true" signature="6844:7007" placeholder="..." />
+            <marker date="1394970102000" expanded="false" signature="6844:6920" placeholder="..." />
+            <marker date="1394970102000" expanded="false" signature="6844:6920" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/locale/en-US/options.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="45" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/locale/en-US/plexvlc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="51" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/locale/en-US/plexvlc.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="39" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/defaults/preferences/defaults.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="46" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/locale/en-US/options.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="45" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="165">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/locale/en-US/plexvlc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="51" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/defaults/preferences/defaults.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="46" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install.rdf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="35" selection-start="287" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome.manifest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="98" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/content/restartbutton.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/content/plexvlc.xul">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="40" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/content/options.xul">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="62" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/locale/en-US/plexvlc.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="39" selection-start="39" selection-end="39" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome/content/plexvlc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="66" selection-start="7295" selection-end="7295" vertical-scroll-proportion="0.64912283" vertical-offset="1842" max-vertical-offset="4020">
+          <folding>
+            <marker date="1394970102000" expanded="false" signature="6691:6796" placeholder="..." />
+            <marker date="1394970102000" expanded="false" signature="6810:6830" placeholder="..." />
+            <marker date="1394970102000" expanded="true" signature="6844:7021" placeholder="..." />
+            <marker date="1394970102000" expanded="true" signature="6844:7007" placeholder="..." />
+            <marker date="1394970102000" expanded="false" signature="6844:6920" placeholder="..." />
+            <marker date="1394970102000" expanded="false" signature="6844:6920" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,8 @@
+content plexvlc chrome/content/
+skin    plexvlc classic/1.0 chrome/skin/platform/winnt/     os=WINNT
+skin    plexvlc classic/1.0 chrome/skin/platform/darwin/    os=Darwin
+skin    plexvlc classic/1.0 chrome/skin/platform/linux/     os=Linux
+locale  plexvlc en-US chrome/locale/en-US/
+
+overlay chrome://browser/content/browser.xul            chrome://plexvlc/content/plexvlc.xul
+style   chrome://global/content/customizeToolbar.xul    chrome://plexvlc/content/restartbutton.css

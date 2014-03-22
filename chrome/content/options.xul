@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<!DOCTYPE window SYSTEM "chrome://plexvlc/locale/options.dtd">
+
+<prefwindow id="plexvlc-prefwindow" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+            title="&plexvlc.preftitle;">
+    <script type="application/x-javascript" src="plexvlc.js"/>
+    <prefpane id="plexvlc-prefpane" label="&plexvlc.preftitle;" onpaneload="plexVlc.init();">
+        <preferences>
+            <preference id="pref-vlc-path" name="extensions.plexvlc.vlc_location" type="string"/>
+            <preference id="pref-plex-port" name="extensions.plexvlc.plex_port" type="string"/>
+        </preferences>
+        <grid>
+            <rows>
+                <row>
+                    <label control="vlc-path" value="&plexvlc.vlc_path.input;: "/>
+                    <textbox preference="pref-vlc-path" id="vlc-path" size="50"/>
+                    <button label="&plexvlc.vlc_path.choose;" oncommand="plexVlc.doFindVLCPath();"/>
+                </row>
+                <row>
+                    <label control="plex-port" value="&plexvlc.plex_port.input;: "/>
+                    <textbox preference="pref-plex-port" id="plex-port" size="6"/>
+                </row>
+            </rows>
+        </grid>
+    </prefpane>
+</prefwindow>
+

@@ -1,0 +1,5 @@
+<!ENTITY plexvlc.preftitle "Play Plex in VLC options">
+<!ENTITY plexvlc.vlc_path.input "Path to VLC executable">
+<!ENTITY plexvlc.vlc_path.choose "Choose">
+<!ENTITY plexvlc.plex_port.input "Plex port">
+
